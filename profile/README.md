@@ -27,4 +27,4 @@ Larvyn updates itself after that.
 
 Larvyn is in public beta. [Report a bug](https://github.com/larvyn/releases/issues/new), or ask a question and share ideas in [Discussions](https://github.com/larvyn/releases/discussions).
 
-🌐 [larvyn-site.vercel.app](https://larvyn-site.vercel.app)
+🌐 [larvyn.vercel.app](https://larvyn.vercel.app)
