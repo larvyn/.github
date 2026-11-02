@@ -12,13 +12,13 @@
 Linux and macOS:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/larvyn/releases/main/install.sh | sh
+curl -fsSL https://larvyn.dev/install.sh | sh
 ```
 
 Windows (PowerShell):
 
 ```powershell
-irm https://raw.githubusercontent.com/larvyn/releases/main/install.ps1 | iex
+irm https://larvyn.dev/install.ps1 | iex
 ```
 
 Larvyn updates itself after that.
@@ -27,4 +27,4 @@ Larvyn updates itself after that.
 
 Larvyn is in public beta. [Report a bug](https://github.com/larvyn/releases/issues/new), or ask a question and share ideas in [Discussions](https://github.com/larvyn/releases/discussions).
 
-🌐 [larvyn.vercel.app](https://larvyn.vercel.app)
+🌐 [larvyn.dev](https://larvyn.dev)
